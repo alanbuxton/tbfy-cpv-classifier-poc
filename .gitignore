@@ -1,0 +1,9 @@
+data/3_JSON_Enriched
+.ipynb_checkpoints
+output
+logs
+**/__pycache__
+mlruns
+tbfy_cpv_model/config.json
+tbfy_cpv_model/pytorch_model.bin
+

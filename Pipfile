@@ -1,0 +1,33 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cpu/"
+verify_ssl = false
+
+[packages]
+jupyter = "*"
+pandas = "*"
+sklearn = "*"
+transformers = "*"
+nltk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+
+[packages.torch]
+index = "pytorch"
+version = "==1.9.0"
+
+[packages.torchvision]
+index = "pytorch"
+version = "==0.10.0"
+
+[packages.torchaudio]
+index = "pytorch"
+version = "==0.9.0"

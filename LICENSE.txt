@@ -1,0 +1,5 @@
+This repository contains data from http://data.tbfy.eu/ that is released under the Creative Commons BY-NC-SA 4.0 License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+From data.tbfy.eu: "The ... data is provided under the Creative Commons BY-NC-SA 4.0 License, which allows you to use, share and adapt the data for non-commercial uses as long as you give appropriate credit and share any adapted data under the same license as the original."
+
+Therefore the same Creative Commons BY-NC-SA 4.0 License applies to the code and data in this repository.
