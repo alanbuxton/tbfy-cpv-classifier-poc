@@ -4,6 +4,9 @@ output
 logs
 **/__pycache__
 mlruns
-tbfy_cpv_model/config.json
-tbfy_cpv_model/pytorch_model.bin
-
+models/transformers/config.json
+models/transformers/pytorch_model.bin
+models/bilstm/*pickle
+models/bilstm/*pb
+models/bilstm/variables
+models/svc/*pickle
